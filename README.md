@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **G-Campus**
+- 🔭 We're currently working on **G-Campus**
 
-- 🌱 I’m currently learning **React, Angular,Vue**
+- 🌱 We're currently learning **React, Angular,Vue**
 
-- 👯 I’m looking to collaborate on **Youtube**
+- 👯 We're looking to collaborate on **Youtube**
 
-- 🤝 I’m looking for help with **NASA**
+- 🤝 We're looking for help with **NASA**
 
-- 💬 Ask me about **MERT,MARN**
+- 💬 Ask me about **MERN,MARN**
 
 - 📫 How to reach me **web.developers.2021.2024@gmail.com**
 
