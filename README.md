@@ -11,7 +11,7 @@
 
 - 🌱 We're currently learning **React, Angular,Vue**
 
-- 👯 We're looking to collaborate on **Youtube**
+- 👯 We're looking to collaborate on **Google & Microsoft**
 
 - 🤝 We're looking for help with **NASA**
 
