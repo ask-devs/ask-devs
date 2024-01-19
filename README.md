@@ -11,10 +11,6 @@
 
 - 🌱 We're currently learning **React, Angular,Vue**
 
-- 👯 We're looking to collaborate on **Google & Microsoft**
-
-- 🤝 We're looking for help with **NASA**
-
 - 💬 Ask me about **MERN,MARN**
 
 - 📫 How to reach me **web.developers.2021.2024@gmail.com**
